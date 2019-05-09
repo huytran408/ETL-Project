@@ -1,0 +1,35 @@
+Departure_Airline,Return_Airline,Departure_time,Duration,Price,Date_Checked
+China Airlines,China Airlines,12:05 am,18h 55m,1523,2019-05-09 04:35 PM
+Japan Airlines,EVA Air,8:30 am,30h 20m,1353,2019-05-09 04:35 PM
+China Airlines,China Airlines,12:05 am,18h 55m,1520,2019-05-09 04:35 PM
+Korean Air,Korean Air,11:30 am,20h 15m,1406,2019-05-09 04:35 PM
+China Airlines,China Airlines,12:05 am,18h 55m,1520,2019-05-09 04:35 PM
+China Airlines,China Airlines,12:05 am,19h 20m,1562,2019-05-09 04:35 PM
+Korean Air,Korean Air,11:30 pm,22h 20m,1406,2019-05-09 04:35 PM
+Vietnam Airlines,Vietnam Airlines,12:05 am,19h 20m,1514,2019-05-09 04:35 PM
+EVA Air,EVA Air,12:20 pm,18h 40m,1583,2019-05-09 04:35 PM
+EVA Air,EVA Air,12:20 pm,18h 40m,1583,2019-05-09 04:35 PM
+China Airlines,Cathay Pacific,12:05 am,18h 55m,1671,2019-05-09 04:35 PM
+EVA Air,Cathay Pacific,12:20 pm,18h 40m,1673,2019-05-09 04:35 PM
+China Airlines,EVA Air,12:05 am,18h 55m,1538,2019-05-09 04:35 PM
+EVA Air,EVA Air,12:20 pm,18h 40m,1540,2019-05-09 04:35 PM
+Korean Air,EVA Air,11:30 am,20h 15m,1623,2019-05-09 04:35 PM
+ANA,Cathay Pacific,11:00 am,19h 45m,1704,2019-05-09 04:35 PM
+EVA Air,Vietnam Airlines,12:20 pm,18h 40m,1705,2019-05-09 04:35 PM
+China Airlines,China Airlines,12:05 am,18h 55m,1523,2019-05-09 04:36 PM
+Japan Airlines,EVA Air,8:30 am,30h 20m,1353,2019-05-09 04:36 PM
+China Airlines,China Airlines,12:05 am,18h 55m,1520,2019-05-09 04:36 PM
+Korean Air,Korean Air,11:30 am,20h 15m,1406,2019-05-09 04:36 PM
+China Airlines,China Airlines,12:05 am,18h 55m,1520,2019-05-09 04:36 PM
+China Airlines,China Airlines,12:05 am,19h 20m,1562,2019-05-09 04:36 PM
+Korean Air,Korean Air,11:30 pm,22h 20m,1406,2019-05-09 04:36 PM
+Vietnam Airlines,Vietnam Airlines,12:05 am,19h 20m,1514,2019-05-09 04:36 PM
+EVA Air,EVA Air,12:20 pm,18h 40m,1583,2019-05-09 04:36 PM
+EVA Air,EVA Air,12:20 pm,18h 40m,1583,2019-05-09 04:36 PM
+China Airlines,Cathay Pacific,12:05 am,18h 55m,1671,2019-05-09 04:36 PM
+EVA Air,Cathay Pacific,12:20 pm,18h 40m,1673,2019-05-09 04:36 PM
+China Airlines,EVA Air,12:05 am,18h 55m,1538,2019-05-09 04:36 PM
+EVA Air,EVA Air,12:20 pm,18h 40m,1540,2019-05-09 04:36 PM
+Korean Air,EVA Air,11:30 am,20h 15m,1623,2019-05-09 04:36 PM
+ANA,Cathay Pacific,11:00 am,19h 45m,1704,2019-05-09 04:36 PM
+EVA Air,Vietnam Airlines,12:20 pm,18h 40m,1705,2019-05-09 04:36 PM
