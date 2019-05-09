@@ -1,18 +1,18 @@
-Departure_Airline, Return_Airline, Depature_time, Duration, Price
-Asiana Airlines,EVA Air,12:05 am,19h 20m,$1449 
-Japan Airlines,EVA Air,12:05 am,19h 20m,$1449 
-China Airlines,China Airlines,12:05 am,19h 20m,$1449 
-Vietnam Airlines,Vietnam Airlines,12:05 am,19h 20m,$1449 
-China Airlines,China Airlines,12:05 am,19h 20m,$1449 
-China Airlines,China Airlines,12:05 am,19h 20m,$1449 
-EVA Air,EVA Air,12:05 am,19h 20m,$1449 
-EVA Air,EVA Air,12:05 am,19h 20m,$1449 
-EVA Air,Cathay Pacific,12:05 am,19h 20m,$1449 
-Asiana Airlines,EVA Air,12:05 am,19h 20m,$1449 
-Asiana Airlines,EVA Air,12:05 am,19h 20m,$1449 
-EVA Air,EVA Air,12:05 am,19h 20m,$1449 
-ANA,ANA,12:05 am,19h 20m,$1449 
-Korean Air,Korean Air,12:05 am,19h 20m,$1449 
-China Airlines,EVA Air,12:05 am,19h 20m,$1449 
-China Airlines,EVA Air,12:05 am,19h 20m,$1449 
-EVA Air,EVA Air,12:05 am,19h 20m,$1449 
+Departure_Airline, Return_Airline, Depature_time, Duration, Price, Date_Checked
+China Airlines,Cathay Pacific,12:05 AM,18h 55m,1671,5/9/2019
+Japan Airlines,EVA Air,5:30 PM,45h 20m,1363,5/9/2019
+China Airlines,China Airlines,12:05 AM,18h 55m,1520,5/9/2019
+China Airlines,China Airlines,12:05 AM,18h 55m,1520,5/9/2019
+China Airlines,China Airlines,12:05 AM,19h 20m,1562,5/9/2019
+Vietnam Airlines,Vietnam Airlines,12:05 AM,19h 20m,1514,5/9/2019
+ANA,ANA,11:10 AM,19h 35m,1518,5/9/2019
+Korean Air,Korean Air,11:30 AM,20h 15m,1554,5/9/2019
+ANA,ANA,11:00 AM,19h 45m,1568,5/9/2019
+EVA Air,EVA Air,12:20 PM,18h 40m,1583,5/9/2019
+EVA Air,EVA Air,12:20 PM,18h 40m,1583,5/9/2019
+China Airlines,EVA Air,12:05 AM,18h 55m,1597,5/9/2019
+China Airlines,EVA Air,12:05 AM,18h 55m,1597,5/9/2019
+China Airlines,Cathay Pacific,12:05 AM,18h 55m,1671,5/9/2019
+EVA Air,Cathay Pacific,12:20 PM,18h 40m,1673,5/9/2019
+Asiana Airlines,EVA Air,11:30 PM,20h 35m,1526,5/9/2019
+Asiana Airlines,EVA Air,11:30 PM,20h 35m,1526,5/9/2019
